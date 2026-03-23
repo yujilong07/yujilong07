@@ -18,16 +18,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yujilong07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&card_width=350" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yujilong07&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yujilong07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&card_width=350" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujilong07&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&card_width=350" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yujilong07&theme=tokyonight&hide_border=false" height="150" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yujilong07&theme=tokyo-night&hide_border=false&area=true" alt="activity graph" />
+  <img src="https://streak-stats.demolab.com?user=yujilong07&theme=tokyonight&hide_border=false" height="150" />
 </p>
 
 ---
@@ -35,46 +31,35 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yujilong07&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yujilong07&theme=tokyonight&margin-w=4&row=1&no-frame=false" />
 </p>
 
 ---
 
-## 📈 Most Contributed Repos
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=yujilong07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="contributor stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yujilong07&theme=tokyo-night&area=true&hide_border=false" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yujilong07/yujilong07/output/snake.svg" alt="Snake animation" />
-</p>
-
-> 💡 Щоб увімкнути змійку, додай GitHub Action до профільного репо:
-> `.github/workflows/snake.yml` → [інструкція тут](https://github.com/Platane/snk)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" title="Flask" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
 </p>
 
 ---
@@ -83,11 +68,11 @@
 
 <p align="left">
   <a href="https://t.me/meilong23" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
   </a>
   &nbsp;
   <a href="mailto:yujilong07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 </p>
 

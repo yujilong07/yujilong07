@@ -79,5 +79,5 @@
 ---
 
 <p align="center">
-  <i>✨ "The expert in anything was once a beginner." — Helen Hayes</i>
+  <i> "The expert in anything was once a beginner." — Helen Hayes</i>
 </p>

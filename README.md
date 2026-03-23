@@ -1,24 +1,3 @@
-```python
-class Developer:
-    def __init__(self):
-        self.name       = "Mark"
-        self.username   = "yujilong07"
-        self.role       = "Backend Developer & AI Enthusiast"
-        self.location   = "Kharkiv, Ukraine 🇺🇦"
-        self.status     = "Student & Eternal Learner 📚"
-
-    def current_focus(self):
-        return [
-            "Diving deep into Neural Networks 🧠",
-            "Building Backend projects with Python 🐍",
-            "Exploring C++ and Java fundamentals ☕",
-        ]
-
-me = Developer()
-```
-
----
-
 # 👋 Hi, I'm Mark!
 
 ### 🎓 Student · 🐍 Backend Developer · 🤖 AI & Neural Networks Enthusiast
@@ -50,6 +29,33 @@ me = Developer()
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yujilong07&theme=tokyo-night&hide_border=false&area=true" alt="activity graph" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yujilong07&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophies" />
+</p>
+
+---
+
+## 📈 Most Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=yujilong07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="contributor stats" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yujilong07/yujilong07/output/snake.svg" alt="Snake animation" />
+</p>
+
+> 💡 Щоб увімкнути змійку, додай GitHub Action до профільного репо:
+> `.github/workflows/snake.yml` → [інструкція тут](https://github.com/Platane/snk)
 
 ---
 

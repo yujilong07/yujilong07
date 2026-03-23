@@ -16,7 +16,7 @@ My goal is to build a strong foundation in both areas — starting with backend 
 |---|---|---|
 | 📊 Statistical Library | Custom implementation of core statistical functions | Python, NumPy |
 | 📈 Linear Regression | Linear regression model built from scratch | Python, NumPy, Matplotlib |
-| 🔄 File Converter | Tool for converting between file formats | Python |
+| 🔄 File Converter | Tool for converting between file formats | C++ |
 | 🔧 Backend Project | Currently in development | Python, Flask |
 
 ---

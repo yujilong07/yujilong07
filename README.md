@@ -1,17 +1,32 @@
-# 👋 Hi, I'm Mark!
+# 👋 Hi, I'm Mark
 
-### 🎓 Student · 🐍 Backend Developer · 🤖 AI & Neural Networks Enthusiast
+### Student · Backend Developer · Machine Learning Enthusiast
 
-> I'm just getting started — and that's the most exciting part. Every day I learn something new about backend development and machine learning, and I'm here for the whole journey.
+I'm a student from Kharkiv, Ukraine, focused on backend development and machine learning.
+My goal is to build a strong foundation in both areas — starting with backend systems, then moving deeper into ML and model development.
+
+**Currently:** Building a backend project and strengthening my Python skills.<br>
+**Next:** Returning to AI/ML — neural networks, model training, and real-world applications.
 
 ---
 
-## 🚀 What I'm Up To
+## 🗂️ Projects
 
-- 🧠 Fascinated by **Neural Networks** and how machines can learn
-- 🔧 Building my first **backend projects** with Python & Flask
-- 📖 Studying **C++** and **Java** to strengthen my CS fundamentals
-- 🌱 A true beginner who isn't afraid to ask questions and make mistakes
+| Project | Description | Stack |
+|---|---|---|
+| 📊 Statistical Library | Custom implementation of core statistical functions | Python, NumPy |
+| 📈 Linear Regression | Linear regression model built from scratch | Python, NumPy, Matplotlib |
+| 🔄 File Converter | Tool for converting between file formats | Python |
+| 🔧 Backend Project | Currently in development | Python, Flask |
+
+---
+
+## 🚀 What I'm Learning
+
+- Backend development — REST APIs, project structure, Flask
+- Python ecosystem — NumPy, Matplotlib, data processing
+- Machine Learning fundamentals — regression, statistics, model building
+- C++ and Java for deeper understanding of programming concepts
 
 ---
 
@@ -67,7 +82,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Contact
 
 <p align="left">
   <a href="https://t.me/meilong23" target="_blank">
@@ -77,10 +92,4 @@
   <a href="mailto:yujilong07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>✨ "The expert in anything was once a beginner." — Helen Hayes</i>
 </p>

@@ -18,12 +18,15 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yujilong07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&card_width=350" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujilong07&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&card_width=350" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yujilong07&show_icons=true&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yujilong07&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujilong07&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yujilong07&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -79,5 +82,5 @@
 ---
 
 <p align="center">
-  <i> "The expert in anything was once a beginner." — Helen Hayes</i>
+  <i>✨ "The expert in anything was once a beginner." — Helen Hayes</i>
 </p>

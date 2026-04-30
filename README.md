@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Mark
 
-### Student · Backend Developer · Machine Learning Enthusiast
+### CS Student @ NURE · Junior Python Backend Developer · AI/ML Enthusiast
 
-I'm a student from Kharkiv, Ukraine, focused on backend development and machine learning.
-My goal is to build a strong foundation in both areas — starting with backend systems, then moving deeper into ML and model development.
+I'm a second-year Computer Science student (AI specialization) from Kharkiv, Ukraine, currently based in Rome, Italy.
+I build backend systems with Python — REST APIs, databases, authentication — and I'm passionate about integrating AI/ML into real products.
 
-**Currently:** Building a backend project and strengthening my Python skills.<br>
-**Next:** Returning to AI/ML — neural networks, model training, and real-world applications.
+**Currently:** Actively looking for my first **Junior Python Backend Developer** role.<br>
+**Next goal:** Going deeper into ML — neural networks, model training, production pipelines.
 
 ---
 
@@ -14,20 +14,27 @@ My goal is to build a strong foundation in both areas — starting with backend 
 
 | Project | Description | Stack |
 |---|---|---|
-| 📊 Statistical Library | Custom implementation of core statistical functions | Python, NumPy |
-| 📈 Linear Regression | Linear regression model built from scratch | Python, NumPy, Matplotlib |
-| 🔄 File Converter | Tool for converting between file formats | C++ |
-| 🔧 Backend Project | Currently in development | Python, Flask |
+| 🔧 [DevTracker](https://github.com/yujilong07/devtracker) | Full-stack task tracker with JWT auth, REST API, and cloud deployment | Python, Flask, SQLAlchemy, PostgreSQL, JWT, Railway, Netlify |
+| 🤖 [ContractAI](https://github.com/yujilong07/contractai) | AI-powered contract analysis tool built at Rome AI & Tech Week 2026 hackathon | Python, FastAPI, LLM (Regolo AI), ElevenLabs |
+| 📊 [MeiStatLib](https://github.com/yujilong07/meistatlib) | Custom implementation of core statistical functions from scratch | Python, NumPy |
+| 🔄 [Meitator](https://github.com/yujilong07/meitator) | File format converter | C++ |
+| 💬 Messenger Server *(in progress)* | WebSocket-based messenger (Telegram-like) with JWT auth | Java, WebSocket, PostgreSQL, Maven |
+
+---
+
+## 🏆 Achievements
+
+- **Rome AI & Tech Week 2026** — built ContractAI (FastAPI + LLM integration) during a hackathon
 
 ---
 
 ## 🚀 What I'm Learning
 
-- Backend development — REST APIs, project structure, Flask
-- Python ecosystem — NumPy, Matplotlib, data processing
-- Machine Learning fundamentals — regression, statistics, model building
-- C++ and Java for deeper understanding of programming concepts
-
+- Backend architecture — REST APIs, WebSockets, authentication flows (JWT, OAuth)
+- Python ecosystem — FastAPI, Flask, SQLAlchemy, PostgreSQL
+- AI/ML integration — LLM APIs, prompt engineering, model pipelines
+- Java — OOP, Maven, WebSocket, enterprise patterns
+  
 ---
 
 ## 📊 GitHub Statistics
@@ -67,27 +74,25 @@ My goal is to build a strong foundation in both areas — starting with backend 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" title="Flask" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" title="SQLAlchemy" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
 </p>
 
 ---

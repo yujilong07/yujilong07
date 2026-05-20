@@ -5,8 +5,9 @@
 I'm a second-year Computer Science student (AI specialization) from Kharkiv, Ukraine, currently based in Rome, Italy.
 I build backend systems with Python — REST APIs, databases, authentication — and I'm passionate about integrating AI/ML into real products.
 
-**Currently:** Actively looking for my first **Junior Python Backend Developer** role.<br>
-**Next goal:** Going deeper into ML — neural networks, model training, production pipelines.
+**Currently:** Actively looking for my first **Junior Python Backend Developer** role in Rome or remote.<br>
+**Next goal:** Going deeper into ML — neural networks, model training, production pipelines.<br>
+**Languages:** Ukrainian (native), English (B2), Italian (A1–A2, learning).
 
 ---
 
@@ -14,11 +15,11 @@ I build backend systems with Python — REST APIs, databases, authentication —
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔧 [DevTracker](https://github.com/yujilong07/devtracker) | Full-stack task tracker with JWT auth, REST API, and cloud deployment | Python, Flask, SQLAlchemy, PostgreSQL, JWT, Railway, Netlify |
-| 🤖 [ContractAI](https://github.com/yujilong07/contractai) | AI-powered contract analysis tool built at Rome AI & Tech Week 2026 hackathon | Python, FastAPI, LLM (Regolo AI), ElevenLabs |
-| 📊 [MeiStatLib](https://github.com/yujilong07/meistatlib) | Custom implementation of core statistical functions from scratch | Python, NumPy |
-| 🔄 [Meitator](https://github.com/yujilong07/meitator) | File format converter | C++ |
-| 💬 Messenger Server *(in progress)* | WebSocket-based messenger (Telegram-like) with JWT auth | Java, WebSocket, PostgreSQL, Maven |
+| 🔧 [DevTracker](https://github.com/yujilong07/devtracker) | Full-stack task tracker with JWT auth (access + refresh tokens, token blocklist for logout), streak tracking, and cloud deployment. Built with Flask Blueprints and the Application Factory pattern. | Python, Flask, SQLAlchemy, PostgreSQL, JWT, Railway, Netlify |
+| 🤖 [ContractAI](https://github.com/yujilong07/contractai) | AI-powered contract analysis tool built at **Rome AI & Tech Week 2026** hackathon. Parses PDF/DOCX contracts, extracts key clauses via LLM, and generates voice summaries. | Python, FastAPI, LLM (Regolo AI), PDF/DOCX parsing, ElevenLabs (voice synthesis) |
+| 💬 [Messenger](https://github.com/yujilong07) *(in progress)* | Telegram-like messenger with WebSocket server, JavaFX desktop client, and HTML/JS web client. BCrypt password hashing, JDBC persistence, JWT auth (in progress). | Java 17, Maven, WebSocket, PostgreSQL, jBCrypt, Gson |
+| 📊 [MeiStatLib](https://github.com/yujilong07/meistatlib) | Core statistical functions (mean, variance, distributions, etc.) implemented from scratch on top of NumPy. | Python, NumPy |
+| 🔄 [Meitator](https://github.com/yujilong07/meitator) | File format converter — practice project for systems-level C++. | C++ |
 
 ---
 
@@ -33,8 +34,9 @@ I build backend systems with Python — REST APIs, databases, authentication —
 - Backend architecture — REST APIs, WebSockets, authentication flows (JWT, OAuth)
 - Python ecosystem — FastAPI, Flask, SQLAlchemy, PostgreSQL
 - AI/ML integration — LLM APIs, prompt engineering, model pipelines
+- DevOps fundamentals — Docker, containerization, deployment
 - Java — OOP, Maven, WebSocket, enterprise patterns
-  
+
 ---
 
 ## 📊 GitHub Statistics

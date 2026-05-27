@@ -1,112 +1,243 @@
-# 👋 Hi, I'm Mark
+# 👋 Hi, I'm Markiian Babaev
 
-### CS Student @ NURE · Junior Python Backend Developer · AI/ML Enthusiast
+### Backend Developer / AI Engineer
 
-I'm a second-year Computer Science student (AI specialization) from Kharkiv, Ukraine, currently based in Rome, Italy.
-I build backend systems with Python — REST APIs, databases, authentication — and I'm passionate about integrating AI/ML into real products.
+Computer Science student specializing in Artificial Intelligence at NURE (Kharkiv National University of Radio Electronics), currently based in Rome, Italy.
 
-**Currently:** Actively looking for my first **Junior Python Backend Developer** role in Rome or remote.<br>
-**Next goal:** Going deeper into ML — neural networks, model training, production pipelines.<br>
-**Languages:** Ukrainian (native), English (B2), Italian (A1–A2, learning).
+I build backend systems and AI-powered applications using Python, FastAPI, Flask, PostgreSQL, Redis, Celery, and Docker. Interested in distributed systems, backend architecture, and production AI/ML applications.
 
----
-
-## 🗂️ Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔧 [DevTracker](https://github.com/yujilong07/devtracker) | Full-stack task tracker with JWT auth (access + refresh tokens, token blocklist for logout), streak tracking, and cloud deployment. Built with Flask Blueprints and the Application Factory pattern. | Python, Flask, SQLAlchemy, PostgreSQL, JWT, Railway, Netlify |
-| 🤖 [ContractAI](https://github.com/yujilong07/contractai) | AI-powered contract analysis tool built at **Rome AI & Tech Week 2026** hackathon. Parses PDF/DOCX contracts, extracts key clauses via LLM, and generates voice summaries. | Python, FastAPI, LLM (Regolo AI), PDF/DOCX parsing, ElevenLabs (voice synthesis) |
-| 💬 [Messenger](https://github.com/yujilong07) *(in progress)* | Telegram-like messenger with WebSocket server, JavaFX desktop client, and HTML/JS web client. BCrypt password hashing, JDBC persistence, JWT auth (in progress). | Java 17, Maven, WebSocket, PostgreSQL, jBCrypt, Gson |
-| 📊 [MeiStatLib](https://github.com/yujilong07/meistatlib) | Core statistical functions (mean, variance, distributions, etc.) implemented from scratch on top of NumPy. | Python, NumPy |
-| 🔄 [Meitator](https://github.com/yujilong07/meitator) | File format converter — practice project for systems-level C++. | C++ |
+- 🔭 Currently looking for a Junior Backend Developer / AI Engineer role
+- 🧠 Focused on backend engineering, async systems, and AI integrations
+- 🚀 Exploring ML engineering, neural networks, and model deployment
+- 🌍 Open to remote and on-site opportunities in Europe
 
 ---
 
-## 🏆 Achievements
+# ⚙️ Tech Stack
 
-- **Rome AI & Tech Week 2026** — built ContractAI (FastAPI + LLM integration) during a hackathon
+## Backend
+- Python
+- FastAPI
+- Flask
+- REST APIs
+- SQLAlchemy
+- Pydantic
+- JWT Authentication
+- Celery
+
+## Databases & Infrastructure
+- PostgreSQL
+- Redis
+- Docker
+- Docker Compose
+- Nginx
+- Linux
+
+## AI & Data
+- LLM Integration
+- Prompt Engineering
+- Streaming AI Responses
+- NumPy
+- Matplotlib
+
+## Other Languages
+- Java
+- C++
 
 ---
 
-## 🚀 What I'm Learning
+# 🚀 Featured Projects
 
-- Backend architecture — REST APIs, WebSockets, authentication flows (JWT, OAuth)
-- Python ecosystem — FastAPI, Flask, SQLAlchemy, PostgreSQL
-- AI/ML integration — LLM APIs, prompt engineering, model pipelines
-- DevOps fundamentals — Docker, containerization, deployment
-- Java — OOP, Maven, WebSocket, enterprise patterns
+## 🤖 MLGR — AI Lab Report Generator
+
+AI-powered platform that generates fully formatted university lab reports from raw student notes.
+
+### Features
+- AI-generated introductions and conclusions
+- Real-time streamed AI responses
+- Async `.docx` generation with Celery
+- Redis caching and task queue
+- Multi-service Docker Compose architecture
+- University-compliant document formatting
+
+### Stack
+`FastAPI` `PostgreSQL` `Redis` `Celery` `Docker Compose` `LLM APIs`
+
+🔗 Repository: https://github.com/yujilong07/MLGR
 
 ---
 
-## 📊 GitHub Statistics
+## 🔧 DevTracker
+
+Full-stack developer progress tracking platform with authentication, statistics, and streak systems.
+
+### Features
+- JWT authentication with token blocklisting
+- Flask Blueprints architecture
+- REST API design
+- PostgreSQL persistence
+- Railway + Netlify deployment
+
+### Stack
+`Flask` `PostgreSQL` `SQLAlchemy` `JWT`
+
+🔗 Repository: https://github.com/yujilong07/SeDevu
+
+---
+
+## 📄 ContractAI
+
+Hackathon project built during Rome AI & Tech Week 2026.
+
+AI-powered contract analysis platform that parses PDF/DOCX files, extracts structured information using LLMs, and generates voice summaries.
+
+### Stack
+`FastAPI` `Pydantic` `LLM APIs` `PDF Parsing` `ElevenLabs`
+
+🔗 Repository: https://github.com/yujilong07/ContractAI
+
+---
+
+## 💬 MeiGa
+
+Real-time messaging application with desktop and web clients.
+
+### Features
+- Java-WebSocket server
+- JavaFX desktop client
+- Layered architecture
+- BCrypt password hashing
+- PostgreSQL persistence
+
+### Stack
+`Java 17` `WebSocket` `PostgreSQL` `Maven`
+
+🔗 Repository: https://github.com/yujilong07/MeiGa
+
+---
+
+# 🏆 Achievements
+
+- 🥈 Built ContractAI during Rome AI & Tech Week 2026
+- 🐳 Designed multi-service Dockerized backend systems
+- ⚡ Built async task pipelines with Celery + Redis
+- 🤖 Integrated LLM APIs into production-style applications
+
+---
+
+# 📚 Currently Learning
+
+- Machine Learning fundamentals
+- Neural networks and deep learning
+- Distributed backend systems
+- Advanced Docker & DevOps workflows
+- Scalable system design
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yujilong07&show_icons=true&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujilong07&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yujilong07&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yujilong07&theme=tokyonight&margin-w=4&row=1&no-frame=false" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=yujilong07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    height="170"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujilong07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 ---
 
-## 📈 Activity Graph
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yujilong07&theme=tokyo-night&area=true&hide_border=false" />
+  <img 
+    src="https://streak-stats.demolab.com?user=yujilong07&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
+# 📈 Activity Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yujilong07&theme=tokyo-night&hide_border=true&area=true" 
+    width="100%"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=yujilong07&theme=tokyonight&row=1&margin-w=15&no-frame=true" 
+  />
+</p>
+
+---
+
+# 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" title="Flask" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" title="SQLAlchemy" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" />
+
 </p>
 
 ---
 
-## 📫 Contact
+# 🌐 Languages
+
+- Ukrainian — Native
+- English — B2
+- Italian — A2
+
+---
+
+# 📫 Contact
 
 <p align="left">
-  <a href="https://t.me/meilong23" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
-  </a>
-  &nbsp;
-  <a href="mailto:yujilong07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
+
+<a href="https://t.me/meilong23" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="mailto:yujilong07@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/markiian-babaiev-79197b353/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>

@@ -258,9 +258,8 @@ Open To:
 ## Languages
 
 - Ukrainian — Native
-- Russian — Native
 - English — B2
-- Italian — A1–A2
+- Italian — B1
 
 ---
 
